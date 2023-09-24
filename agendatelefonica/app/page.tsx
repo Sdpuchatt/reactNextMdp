@@ -1,8 +1,7 @@
-import Image from 'next/image'
-
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="p-24">
+      
         <p>Hola mundo</p>
         <p></p>
         <p></p>
@@ -11,3 +10,8 @@ export default function Home() {
 }
 // npm install -g create-react-app
 // npx create-next-app my aplication
+// npm install -g create-next-app
+//npm install @heroicons/react
+/**
+ * npm i --save @fortawesome/free-solid-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-brands-svg-icons
+ */
