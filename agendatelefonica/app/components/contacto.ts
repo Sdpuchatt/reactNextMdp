@@ -1,0 +1,26 @@
+export const Contacto = [
+    {
+        firstName:'sdp',
+        lastName:'pcu',
+        email:'email',
+        phone:'phone'
+    },
+    {
+        firstName:'name',
+        lastName:'name',
+        email:'email',
+        phone:'phone'
+    },
+    {
+        firstName:'name',
+        lastName:'name',
+        email:'email',
+        phone:'phone'
+    },
+    {
+        firstName:'name',
+        lastName:'name',
+        email:'email',
+        phone:'phone'
+    }
+];
